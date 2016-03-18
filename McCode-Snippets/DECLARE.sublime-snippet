@@ -1,0 +1,9 @@
+<snippet>
+	<description>DECLARE</description>
+    <content><![CDATA[DECLARE
+%{
+	${0:/* C declarations of global variables etc. */}
+%}]]></content>
+    <tabTrigger>DECLARE</tabTrigger>
+    <scope>source.McCode</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<description>SHARE</description>
+    <content><![CDATA[SHARE
+%{
+	${0:/* C code shared declarations (variables, definitions, functions) */
+	/* These should not be OUTPUT parameters */}
+%}]]></content>
+    <tabTrigger>SHARE</tabTrigger>
+    <scope>source.McCode</scope>
+</snippet>

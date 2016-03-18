@@ -1,0 +1,9 @@
+<snippet>
+	<description>SAVE</description>
+    <content><![CDATA[SAVE
+%{
+	${0:/* C code to execute in order to save data */}
+%}]]></content>
+    <tabTrigger>SAVE</tabTrigger>
+    <scope>source.McCode</scope>
+</snippet>

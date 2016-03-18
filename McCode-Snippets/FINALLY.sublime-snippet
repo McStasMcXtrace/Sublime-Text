@@ -1,0 +1,9 @@
+<snippet>
+	<description>FINALLY</description>
+    <content><![CDATA[FINALLY
+%{
+	${0:/* C code to execute at end of simulation */}
+%}]]></content>
+    <tabTrigger>FINALLY</tabTrigger>
+    <scope>source.McCode</scope>
+</snippet>

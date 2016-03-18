@@ -1,0 +1,9 @@
+<snippet>
+	<description>MCDISPLAY</description>
+    <content><![CDATA[MCDISPLAY
+%{
+	${0:/* C code to draw a sketch of the component */}
+%}]]></content>
+    <tabTrigger>MCDISPLAY</tabTrigger>
+    <scope>source.McCode</scope>
+</snippet>

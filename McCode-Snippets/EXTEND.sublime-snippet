@@ -1,0 +1,9 @@
+<snippet>
+	<description>EXTEND</description>
+    <content><![CDATA[EXTEND
+%{
+	${0:/* C code executed after the component TRACE section */}
+%}]]></content>
+    <tabTrigger>EXTEND</tabTrigger>
+    <scope>source.McCode</scope>
+</snippet>

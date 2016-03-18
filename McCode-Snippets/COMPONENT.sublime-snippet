@@ -1,0 +1,10 @@
+<snippet>
+	<description>COMPONENT</description>
+    <content><![CDATA[COMPONENT ${1:Origin} = ${2:Progress_bar}(
+	${3:/* parameters */}
+	)
+ 	AT (0,0,0) ${4:ABSOLUTE}
+]]></content>
+    <tabTrigger>COMPONENT</tabTrigger>
+    <scope>source.McCode</scope>
+</snippet>

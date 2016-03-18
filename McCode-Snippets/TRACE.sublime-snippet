@@ -1,0 +1,9 @@
+<snippet>
+	<description>TRACE</description>
+    <content><![CDATA[TRACE
+%{
+	${0:/* ${TM_FILENAME/(.+\.comp)|.+\.instr/(?1C code to compute interaction with component:Components)/} */}
+%}]]></content>
+    <tabTrigger>TRACE</tabTrigger>
+    <scope>source.McCode</scope>
+</snippet>

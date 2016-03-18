@@ -1,0 +1,9 @@
+<snippet>
+	<description>INITIALIZE</description>
+    <content><![CDATA[INITIALIZE
+%{
+	${0:/* C code initialization */}
+%}]]></content>
+    <tabTrigger>INITIALIZE</tabTrigger>
+    <scope>source.McCode</scope>
+</snippet>
